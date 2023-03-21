@@ -41,9 +41,9 @@ Example:
 
 File names:
 
-> FileName-P01.txt
-> FileName-P02.txt
-> FileName-P03.txt
+> FileName-P01.txt  
+> FileName-P02.txt  
+> FileName-P03.txt  
 
     Text to replace: FileName
     Replace with: FN
@@ -51,9 +51,9 @@ File names:
 
 New file names:
 
-> FN-P01.txt
-> FN-P02.txt
-> FN-P03.txt
+> FN-P01.txt    
+> FN-P02.txt    
+> FN-P03.txt    
 
 ### Add a prefix and/or suffix
 
@@ -62,9 +62,9 @@ Example:
 
 File names:
 
-> FileName01.pdf
-> FileName02.pdf
-> FileName03.pdf
+> FileName01.pdf    
+> FileName02.pdf    
+> FileName03.pdf    
 
     Write a suffix (Enter to skip): -new
     Write a prefix (Enter to skip): NM_
@@ -72,9 +72,9 @@ File names:
 
 New file names:
 
-> NM_FileName01-new.pdf
-> NM_FileName02-new.pdf
-> NM_FileName03-new.pdf
+> NM_FileName01-new.pdf     
+> NM_FileName02-new.pdf     
+> NM_FileName03-new.pdf     
 
 ### Rename all with a consecutive number
 
@@ -83,10 +83,10 @@ Example:
 
 File names:
 
-> FileName01.png
-> FileName02.png
-> FileName03.png
-> FileName04.jpg
+> FileName01.png    
+> FileName02.png    
+> FileName03.png    
+> FileName04.jpg    
 
     Write a constant: FN-
     Number of digits of the consecutive (max 5): 2
@@ -94,10 +94,10 @@ File names:
 
 New file names:
 
-> FN-01.png
-> FN-02.png
-> FN-03.png
-> FileName04.jpg
+> FN-01.png     
+> FN-02.png     
+> FN-03.png     
+> FileName04.jpg    
 
 (Note: FileName04.jpg keep the original name because we selected only png files.)
 
